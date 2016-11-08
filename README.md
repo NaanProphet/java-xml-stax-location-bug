@@ -1,1 +1,1 @@
-# java-xml-stax-npe-bug
+# java-xml-stax-location-bug
